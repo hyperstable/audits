@@ -9,17 +9,17 @@ We will be updating the audits as they are completed.
 
 #### Full Protocol Audit
 
-- **Audit Date**: 02-05 -- 02-18
-- **Audit Report**: [Audit Report](2025/0x52/02-21/report.md)
+- **Audit Date**: 02/05 - 02/18
+- [Audit Report](2025/0x52/02-21/report.md)
 
 ### Pashov Audit Group
 
 #### Full Protocol Audit
 
-- **Audit Date**: 02-26 -- 03-03
-- **Audit Report**: [Audit Report](2025/Pashov/03-13/report.pdf)
+- **Audit Date**: 02/26 - 03/03
+- [Audit Report](2025/Pashov/03-13/report.pdf)
 
 #### Permanent vePeg Audit
 
-- **Audit Date**: 03-19 -- 03-21
-- **Audit Report**: [Audit Report](2025/Pashov/03-19/report.pdf)
+- **Audit Date**: 03/19 - 03/21
+- [Audit Report](2025/Pashov/03-19/report.pdf)
