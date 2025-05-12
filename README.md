@@ -23,3 +23,8 @@ We will be updating the audits as they are completed.
 
 - **Audit Date**: 03/19 - 03/21
 - [Audit Report](2025/Pashov/03-19/report.pdf)
+
+### 0xKato and 0xWeiss
+
+- **Audit Date**: 03/12 - 03/26
+- [Audit Report](2025/Kato-Weiss/03-12/report.pdf)
