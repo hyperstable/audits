@@ -3,6 +3,13 @@
 This repository contains the security audits of the Hyperstable project.
 We will be updating the audits as they are completed.
 
+Auditors:
+
+- [0x52](https://0x52.io)
+- [Pashov Audit Group](https://www.pashov.net/)
+- [0xKato](https://github.com/0xkato)
+- [0xWeiss](https://github.com/maarcweiss)
+
 ## 2025
 
 ### 0x52
