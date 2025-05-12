@@ -22,7 +22,7 @@ Auditors:
 #### Permanent vePeg Audit
 
 - **Audit Date**: 03/18 - 03/20
-- [Audit Report](2025/0x52/03-21/report.md)
+- [Audit Report](2025/0x52/03-20/report.md)
 
 #### USH Flash Minting
 
