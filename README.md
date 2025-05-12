@@ -12,6 +12,11 @@ We will be updating the audits as they are completed.
 - **Audit Date**: 02/05 - 02/18
 - [Audit Report](2025/0x52/02-21/report.md)
 
+#### USH flash minting
+
+- **Audit Date**: 04/28
+- No report available
+
 ### Pashov Audit Group
 
 #### Full Protocol Audit
@@ -23,6 +28,16 @@ We will be updating the audits as they are completed.
 
 - **Audit Date**: 03/19 - 03/21
 - [Audit Report](2025/Pashov/03-19/report.pdf)
+
+#### USH flash minting
+
+- **Audit Date**: 04/25
+- No report available
+
+#### Governance audit
+
+- **Audit Date**: 05/11
+- No report available
 
 ### 0xKato and 0xWeiss
 
