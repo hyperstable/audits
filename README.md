@@ -19,10 +19,15 @@ Auditors:
 - **Audit Date**: 02/05 - 02/18
 - [Audit Report](2025/0x52/02-21/report.md)
 
+#### Permanent vePeg Audit
+
+- **Audit Date**: 03/18 - 03/20
+- [Audit Report](2025/0x52/03-21/report.md)
+
 #### USH Flash Minting
 
 - **Audit Date**: 04/28
-- No report available
+- [Audit Report](2025/0x52/04-28/report.md)
 
 ### Pashov Audit Group
 
