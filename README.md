@@ -9,6 +9,7 @@ Auditors:
 - [Pashov Audit Group](https://www.pashov.net/)
 - [0xKato](https://github.com/0xkato)
 - [0xWeiss](https://github.com/maarcweiss)
+- [Anthias](https://anthias.xyz/)
 
 ## 2025
 
